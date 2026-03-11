@@ -1,1 +1,1 @@
-it's difficult to use
+Through learning Git and GitHub, I understand the importance of version control for code management. Previously, file changes were easy to mess up or lose, but now I can use commits, branches, and sync to standardize my development process. I also realize the importance of making timely commits, writing clear messages, and keeping files synchronized. In the future, I will use Git more properly to improve my project management and collaboration skills.
