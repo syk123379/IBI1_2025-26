@@ -1,35 +1,7 @@
-# Creatinine Clearance Calculation
-# 【Pseudocode as Comments】
-# 1. Get user input
-#   INPUT age
-#   INPUT weight
-#   INPUT gender
-#   INPUT creatinine_concentration (Cr)
-# 2. Validate input
-#   valid = True
-#   error_message = ""
-#   IF age >= 100:
-#       valid = False
-#       error_message += "Age must be less than 100 years\n"
-#   IF weight <= 20 OR weight >= 80:
-#       valid = False
-#       error_message += "Weight must be between 20kg and 80kg\n"
-#   IF Cr <= 0 OR Cr >= 100:
-#       valid = False
-#       error_message += "Creatinine concentration must be between 0 μmol/l and 100 μmol/l\n"
-#   IF gender NOT IN ["male", "female"]:
-#       valid = False
-#       error_message += "Gender can only be 'male' or 'female'\n"
-# 3. Calculate and output result
-#   IF valid:
-#       CrCl = ((140 - age) * weight) / (72 * Cr)
-#       IF gender == "female":
-#           CrCl = CrCl * 0.85
-#       OUTPUT "Creatinine clearance CrCl is: " + CrCl + " ml/min"
-#   ELSE:
-#       OUTPUT "Input error, please correct: "
-#       OUTPUT error_message
-
+# Gather age, weight (kg), gender (must be male/female), and creatinine concentration (μmol/l).
+# Check if:Age is less than 100; Weight is between 20 and 80 kg; Creatinine concentration is between 0 and 100 μmol/l; Gender is valid
+# If valid: Compute CrCl = ((140 - age) × weight) / (72 × creatinine). Multiply by 0.85 for females. Output CrCl (ml/min).
+# If invalid: Output an error message listing all issues.
 # 1. Get user input
 age = int(input("Please enter your age (years): "))
 weight = float(input("Please enter your weight (kg): "))
