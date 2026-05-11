@@ -1,0 +1,8 @@
+Question:
+What was the distribution of DALYs across all countries in 2019?
+
+Line number in dalys.py:
+The code to answer this question starts on line 118.
+
+Result discussion:
+The histogram and summary statistics show that DALYs were not evenly distributed across countries in 2019. Some countries had much lower DALYs values, while other countries had much higher values. This means that the burden of disease was very different between countries. The mean and median describe the general level of DALYs in 2019, while the minimum and maximum values show the range between the lowest and highest countries. Overall, the result suggests that disease burden was unequally distributed across the world in 2019.

@@ -1,0 +1,9 @@
+In this practical, I learned how to use Python to model the spread of infectious disease. At first, I found it a little difficult because I needed to understand both the biology idea and the coding steps at the same time.
+
+The basic SIR model was the easiest part once I understood how susceptible, infected, and recovered people change over time. I also found it interesting that the result was different each time, because this showed that the model included randomness.
+
+The vaccination part was the most interesting for me. It was clear from the graph that higher vaccination rates reduced the number of infected people. This helped me better understand herd immunity.
+
+The spatial SIR model was the hardest part because I had to think about neighbours in a 2D grid. Writing pseudocode first helped me organise the steps more clearly.
+
+Overall, this practical was challenging but useful. It helped me improve my Python skills and understand infection modelling better.
