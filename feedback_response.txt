@@ -1,0 +1,8 @@
+Thank you very much for your detailed feedback on my practical assignments. I have carefully reviewed your comments and made all the requested changes as follows:
+1. Week 3
+I have edited thingsIlike.txt to include personal content as required.
+I have also updated my Reflection.txt with a more detailed reflection on what I learned about Git and GitHub.
+2. Week 4
+I have added clear comments to variables.py explaining the values of d and e and showing that d is larger than e, as requested.
+3. Week 5
+I have renamed all script files to remove spaces (e.g., gene expression.py → gene_expression.py) to follow standard naming conventions.

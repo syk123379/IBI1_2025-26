@@ -13,6 +13,11 @@ elif d < e:
 else:
     t = "stable"
 
+# Calculate d and e:
+# d = 5.33 - 5.08 = 0.25
+# e = 5.55 - 5.33 = 0.22
+# Comparing d and e: d (0.25) > e (0.22)
+# So the population growth rate slowed down from 2004-2014 to 2014-2024
 # Output results
 print("Change from 2004-2014 was", d)
 print("Change from 2014-2024 was", e)

@@ -1,1 +1,5 @@
-Through learning Git and GitHub, I understand the importance of version control for code management. Previously, file changes were easy to mess up or lose, but now I can use commits, branches, and sync to standardize my development process. I also realize the importance of making timely commits, writing clear messages, and keeping files synchronized. In the future, I will use Git more properly to improve my project management and collaboration skills.
+Through learning Git and GitHub in Week 3, I have gained a clear understanding of how version control works and why it is essential for code management. 
+
+Before this practical, I often saved multiple versions of the same file with different names to keep track of changes, which was messy and easy to lose track of progress. Now I know how to use commits, branches, and remote sync to organize my work in a clean and traceable way. I also realize the importance of writing clear, meaningful commit messages—something I previously ignored—and keeping local and remote files synchronized.
+
+This experience has helped me understand how Git supports collaborative work and prevents accidental data loss. In future projects, I plan to use Git consistently, make small and frequent commits, and write descriptive messages to improve my project management and collaboration skills.
